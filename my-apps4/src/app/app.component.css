@@ -1,0 +1,46 @@
+.col{
+  margin-left: 10%;
+  margin-right: 10%;
+  width: 70%;
+  padding: 0%;
+}
+.fa-angle-down {
+  float: right;
+}
+.btn-light {
+  width: 100%;
+  text-align: justify;
+  color: black;
+  background-color: #d4eafa;
+}
+i {
+  color: #24a0ed;
+}
+.card
+{
+  box-sizing: border-box;
+  margin-bottom: 20px;
+  border-left: 20px black;
+  
+}
+.card-header {
+  padding: 0%;
+}
+.card-body {
+  background-color: white;
+}
+#faqs {
+  height: 100%;
+  padding: 50px 0;
+}
+#faqs h1 {
+  text-align: center;
+  padding: 20px 0;
+}
+h2{
+  border-left: 5px black;
+}
+.collapse
+{
+  border-left: 5px black;
+}
